@@ -1,6 +1,6 @@
-# RAG_chatbot
+# RAG_with_AI_Agent
 ## Here using RAG as a kind of cache. So, the response time will be reduced. If the same query has been asked again.
-🚀 Building a Smarter AI Chatbot with RAG! 🤖📚
+🚀 Building a Smarter AI Agent with RAG! 🤖📚
 
 I recently built a Retrieval-Augmented Generation (RAG) system that enhances chatbot responses by intelligently fetching information from a vector database and leveraging an LLM only when necessary. The goal? Minimize API calls, improve efficiency, and make the chatbot more context-aware over time!
 
@@ -18,9 +18,9 @@ I recently built a Retrieval-Augmented Generation (RAG) system that enhances cha
 
 This system continuously improves and makes AI-driven chatbots more efficient, cost-effective, and context-aware.
 
-Would love to hear your thoughts! Have you worked with RAG-based chatbot before? Let’s discuss! 🚀
+Would love to hear your thoughts! Have you worked with RAG-based Agent before? Let’s discuss! 🚀
 
-#AI #MachineLearning #RAG #Chatbots #ArtificialIntelligence #Langchain #LLM #NLP #VectorDB #WebSearch
+#AI #MachineLearning #RAG #Chatbots #Agent #ArtificialIntelligence #Langchain #LLM #NLP #VectorDB #WebSearch
 
 ## Usage :
 simply open the notebook in colab and add appropriate api_key's to use.
